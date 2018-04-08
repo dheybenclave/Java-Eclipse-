@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test2DDraw_2
+Bundle-SymbolicName: Test2DDraw_2
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com_npc_snake,
+ com_npc_snake_engine,
+ com_npc_snake_entities,
+ com_npc_snake_utilities

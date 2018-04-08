@@ -1,0 +1,1 @@
+	at MazeGame.main(MazeGame.java:8)
